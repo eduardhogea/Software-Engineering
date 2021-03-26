@@ -1,0 +1,4 @@
+Java Class,UML Class,Description
+X,A,Java class X implements UML class A because X is a subcomponent that handles the communication
+Y,B,Java class Y implements UML class B ...
+Java classes names are the same ar the ones from the UML,,

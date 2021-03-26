@@ -1,0 +1,8 @@
+Java Class,Requirement,Description
+Account,Make an account,User can man an account
+Account,Delete,User can also delete the account
+Account,Modify,User can make changes to the account
+CEO,Employ,CEO can employ a worker
+CEO,Fire,CEO can fire a worker
+CEO,Change Salary,CEO can modify the salary of a worker
+CEO,Promote,Cod can pass the position of CEO to a worker
