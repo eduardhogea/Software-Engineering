@@ -33,11 +33,10 @@ d. etc.
 3. Reflect on the previously made design and found requirements in terms of current
 implementation progress (~ 300 words).
 a. How well could you fulfill our found requirements?
-
-
-
-----Final implementation not posted here, ~1Gb----
 b. How well did the design match implementation and where and why are
 there differences?
 c. Which requirements were hard to grasp?
 d. etc.
+
+
+----Final implementation not posted here, ~1Gb----
