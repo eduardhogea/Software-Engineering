@@ -1,0 +1,7 @@
+Conceptual class,Design class,Description 
+Worker,Emergency worker,Emergency worker is a team of workers responsible for emergencies
+Vehicle,Emergency truck,Emergency truck is a type of vehicle responsible for emergencies
+Emergency repair,Worker,Emergency repairs represent repairs done by the the workers in an emergency
+Worker,Account,Account has details about workers
+Worker,Access,A worker can access his details from the account
+CEO,Order,Order is a command given by the CEO

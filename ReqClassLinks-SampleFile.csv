@@ -1,0 +1,13 @@
+Requirement ID,RequirementName,ClassName,Description 
+1,Worker should be able to  have full access to account,Account,Class account creates an account with it's method create()
+1,Worker should be able to  have full access to account,Account,The method modify() allows the user to change account details
+1,Worker should be able to have full access to account,Account,"Using the delete() method, the user can delete it's account"
+2,Every order made by the CEO should be recorded,Event History,Using the method add_event() an event made by the CEO is noted
+2,Every order made by the CEO should be recorded,CEO,Class CEO can make an order using the method make_order()
+2,Every order made by the CEO should be recorded,CEO,Also class CEO can send a team to a hazard place using send_team()
+3,Vehicles details should be changable,Vehicle,The owner is changed from the Vehicle class by using change_owner()
+3,Vehicles details should be changeable,Worker,An worker with a high enough position given by the methon promote() has the right to ask for a car
+3,Vehicles details should be changeable,Vehicle,A vehicle is either used or unused. This can be changed by the method change_use_state()
+4,CEO has full control,CEO,"Class CEO can employ anyone, using employ()"
+4,CEO has full control,CEO,"Class CEO can fire someone, using the method fire()"
+4,CEO has full control,Worker,"The class CEO is also responsible for the worker salaty, so they can change it with the method change_salary()"
